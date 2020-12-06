@@ -1,3 +1,3 @@
 include_guard(GLOBAL)
 
-cmcm_module(Colors.cmake LOCAL modules/Colors.cmake VERSION 1)
+cmcm_module(Module.cmake LOCAL modules/Module.cmake VERSION 1)
